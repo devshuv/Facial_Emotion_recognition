@@ -6,6 +6,8 @@ Focuses on training a Convolutional Neural Network (CNN) to classify images into
 
 After that using pre-trained deep learning model and OpenCV this project performs real-time face emotion recognition.
 
+---------------------------------------------------------------------------------------------------------------------
+
 Here's a breakdown of the key steps:
 
    Data Loading and Preprocessing: The code sets up ImageDataGenerator for training and validation datasets. It specifies the directories containing the images, targets image size and color mode (grayscale), and includes data augmentation techniques for the training set.
