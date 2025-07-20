@@ -1,6 +1,6 @@
 # Facial_Emotion_recognition 😊😢
 
---> This project involves image loading and preprocessing, face detection using Haar Cascades, applying transfer learning with a MobileNetV2 model for classification. 
+=> This project involves image loading and preprocessing, face detection using Haar Cascades, applying transfer learning with a MobileNetV2 model for classification. 
 
 Focuses on training a Convolutional Neural Network (CNN) to classify images into 7 categories using augmented image data and saving the trained model, and making predictions on new images.
 
