@@ -1,4 +1,4 @@
-# Facial_Emotion_recognition 😢😊😒
+# Facial_Emotion_recognition 😊😢😑😔
 
 This project involves image loading and preprocessing, face detection using Haar Cascades, applying transfer learning with a MobileNetV2 model for classification. 
 
